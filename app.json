@@ -15,11 +15,16 @@
         },
         "START_MESSAGE": {
             "description": "",
-            "value": "*Hi ! I am a simple torrent searcher using @sjprojects's Torrent Searcher api.\n\n\nMade with 🐍 by @KeralasBots*"
+            "value": "**Hi, I Can Search Torrent Database For Your Query😎😎.**
+**Supports Inline Mode**
+👉 type /help For More Info
+ **By :@Lion_xd**
+[SUPPORT CHAT](buttonurl:https://groups.google.com/forum/m/#!forum/torrentgdrivegroup)
+[BOTS CHANNEL](buttonurl:https://drive.google.com/drive/folders/0AKuLeu6YBOp0Uk9PVA:same)"
         },
         "FOOTER_TEXT": {
             "description": "",
-            "value": "*Made with ❤️ by @KeralasBots*",
+            "value": "**Made with ❤️ by @S4HChannel**",
             "required": false
         }
     },
